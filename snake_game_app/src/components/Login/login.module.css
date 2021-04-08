@@ -20,3 +20,21 @@ background-color: black;
    margin-bottom: 20px;
    margin-top: 100px;
 }
+.active {
+  display: block;
+  margin: 0 auto;
+  background-color: blanchedalmond;
+  color: black;
+  text-decoration: none;
+  width: 100px;
+  border-radius: 10px;
+}
+.notActive {
+  display: block;
+  margin: 0 auto;
+  background-color: gray;
+  color: black;
+  text-decoration: none;
+  width: 100px;
+  border-radius: 10px;
+}
