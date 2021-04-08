@@ -1,0 +1,22 @@
+.loginBox {
+  display: block;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+margin: 0 auto;
+border: 2px solid green;
+color: green;
+background-color: black;
+
+}
+
+.loginInput {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.loginLabel {
+  display: block;
+   margin-bottom: 20px;
+   margin-top: 100px;
+}
